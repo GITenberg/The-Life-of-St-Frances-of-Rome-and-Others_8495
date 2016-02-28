@@ -1,0 +1,40 @@
+_repo: The-Life-of-St-Frances-of-Rome-and-Others_8495
+contributor:
+  contributor:
+    agent_name: Capes, J. M. (John Moore)
+    alias: Capes, John Moore
+    birthdate: 1813
+    deathdate: 1889
+    gutenberg_agent_id: '40754'
+    url: http://www.gutenberg.org/2009/agents/40754
+creator:
+  author:
+    agent_name: Fullerton, Georgiana
+    aliases:
+    - Fullerton, Lady Georgiana
+    - Fullerton, Georgiana Charlotte Leveson-Gower
+    - Leveson-Gower, Georgiana Charlotte
+    birthdate: 1812
+    deathdate: 1885
+    gutenberg_agent_id: '2774'
+    url: http://www.gutenberg.org/2009/agents/2774
+    wikipedia: http://en.wikipedia.org/wiki/Georgiana_Fullerton
+description: St. Frances of Rome -- Blessed Lucy of Narni -- Dominica of Paradiso
+  -- Anne de Montmorency, the solitary of the Pyrenees.
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8495'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dominica da Paradiso, d. 1553'
+- !lcsh 'Christian women saints -- Biography'
+- !lcsh 'Montmorency, Anne de, fl. 1666-1699'
+- !lcc 'BX'
+- !lcsh 'Frances, of Rome, Saint, 1384-1440'
+- !lcsh 'Lucia, da Narni, 1476-1544'
+title: The Life of St. Frances of Rome, and Others
+url: http://www.gutenberg.org/ebooks/8495
